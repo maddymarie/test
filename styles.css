@@ -1,7 +1,7 @@
 /*TODO: Add a background color or image to your website*/
 body {
- background-color: #ccccff; 
-  text-align: center;
+ background-color: #e6ffffff; 
+ text-align: center;
 }
 
 h1 {
@@ -31,7 +31,7 @@ p {
 }
 
 .navbar {
-  background-color: #f9c0dbff;
+  background-color: #99004dff;
 }
 ul {
   list-style-type: none;
@@ -39,8 +39,9 @@ ul {
   padding-bottom:2em;
 }
 
-.heading {
-  background-color: #cff0f4ff;
+.homeHeading {
+  background-color: #99004dff;
+  color: white;
 }
 
 li {
@@ -59,7 +60,7 @@ li a:hover {
 
 li {
   display: inline;
-  border-right: 3px solid white;
+  border-right: 3px solid black;
 }
 
 li:last-child {
